@@ -1,0 +1,12 @@
+# Tree Visualization
+This Python program uses the Turtle Graphics library to create a fractal tree design with branched and flowers, making it a fun and visually appealing project.
+
+# Prerequisites
+- Python 3.x
+- Turtle module (built into Python's standard library)
+- Understanding of recursion
+
+# Installation
+1. Clone this repository:
+'''bash
+git clone https://github.com/tech-tash/tree.git
