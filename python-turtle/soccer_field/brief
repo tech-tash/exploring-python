@@ -1,0 +1,16 @@
+# Soccer Field Visualization
+This Python program uses the Turtle Graphics library to create a soccer field visualization. 
+The program includes a field with goalposts, a center circle, and shaded region for enhanced visual details. 
+It is a fun demonstration of geometric shapes and movement using Turtle Graphics.
+
+# Prerequisites
+- Python 3.x
+- Turtle module (built into Python's standard library)
+
+# Installation
+1. Clone this repository
+'''bash
+git clone https://github.com/tech-tash/soccer_field.git
+
+# Run the Python script
+python soccer_field.py
