@@ -1,0 +1,11 @@
+# Attempt at Netflix logo
+This program used Turtle Graphic library to create a visualization of Netflix logo. This code demonstrates basic shape-drawing techniques, color filling, and movement using the Turtle modules.
+
+# Prerequisites
+- Python 3.x
+- Turtle modules (built into Python's standard library)
+
+# Installation
+1. Clone the repository
+'''bash
+git clone https://github.com/tech-tash/netflix_logo.git
