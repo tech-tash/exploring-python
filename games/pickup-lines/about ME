@@ -1,1 +1,10 @@
+# Win Their Heart: Random Pickup Line Generator
+This project is a simple Python program using the *Tkinter* library to generate random, charming pickup lines. It's designed to provide a fun and light-hearted way to impress someone with just a click of a button.
 
+# Features:
+- Randomly selects from a list of homourous and romantic pickup lines.
+- Easy to use GUI built with Tkinter.
+- A fun projects for learning how to work with GUI libraries with Python.
+
+# Purpose:
+The goal of this project is to create a simple, interactive application that can make someone's day a little brighter, all while learning the basics of Python's Tkinter Library
